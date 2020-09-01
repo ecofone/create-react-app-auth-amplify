@@ -21,7 +21,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            IT WAS Changed!!!
+            IT WAS Changed!!! Again but in DEvelopment
           </a>
         </header>
       </div>

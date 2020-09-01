@@ -16,5 +16,23 @@
         "cognitocf0c6096": {}
       }
     }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-create-react-app-auth-amplify-dev-225903-authRole",
+      "UnauthRoleArn": "arn:aws:iam::109269052078:role/amplify-create-react-app-auth-amplify-dev-225903-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::109269052078:role/amplify-create-react-app-auth-amplify-dev-225903-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-create-react-app-auth-amplify-dev-225903-deployment",
+      "UnauthRoleName": "amplify-create-react-app-auth-amplify-dev-225903-unauthRole",
+      "StackName": "amplify-create-react-app-auth-amplify-dev-225903",
+      "StackId": "arn:aws:cloudformation:eu-west-1:109269052078:stack/amplify-create-react-app-auth-amplify-dev-225903/f89c0c40-ec95-11ea-8ec3-02162fdbb6ee",
+      "AmplifyAppId": "d233b577yja79x"
+    },
+    "categories": {
+      "auth": {
+        "cognitocf0c6096": {}
+      }
+    }
   }
 }
